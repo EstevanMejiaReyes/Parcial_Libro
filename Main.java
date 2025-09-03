@@ -24,5 +24,6 @@ public class Main {
         }
         System.out.println("Estado final del libro:");
         System.out.println(libro);
+        system.out.println("Prueba finalizada.");
     }
 } 
