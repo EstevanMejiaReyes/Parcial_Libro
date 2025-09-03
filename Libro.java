@@ -9,6 +9,7 @@ public class Libro {
         this.autor = "";
         this.numEjemplares = 0;
         this.numEjemplaresPrestados = 0;
+        system.out.println("Se creo un libro con parametros")
     }
 
     public Libro(String titulo, String autor, int numEjemplares, int numEjemplaresPrestados) {
